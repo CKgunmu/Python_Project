@@ -9,7 +9,7 @@ from google_images_download import google_images_download
 
 BOT_PREFIX = '/'
 ssl._create_default_https_context = ssl._create_unverified_context
-TOKEN = 'NjA2NDM2MTM5ODE2OTc2Mzk3.XULB2A.zNHLQs_6faBSpvKpX_eWwPBuUKA'
+TOKEN = '봇 '
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
 
